@@ -11,15 +11,27 @@ Nous vous remercions par avance pour le temps que vous accorderez à ce sondage.
 3. Quel âge ont-ils ?
 4. Où habitez-vous ? (si Yverdon centre ou extérieur)
 ## Habitudes
-1. Que faites-vous avec vos enfants pendant votre temps libre ?
-2. Quelles sont les dernières balades que vous avez faites avec vos enfants (ou et combien de temps) ?
-3. Dans quel milieu préférez-vous aller ? (Foret, Ville, tout ça)
-4. Avez-vous des règles pour les appareils technologiques (smartphones, tablettes, ordinateurs, etc.) ?
+1. Lorsqu'on parle de sorties avec vos enfants, à quoi pensez-vous ? 
+	1. Avez-vous des souvenirs en particulier (bon ou mauvais) ?
+2. Quels sont les dernières activités que vous avez faites avec vos enfants ?
+	1. À quelle fréquence ?
+3. Faites-vous des balades avec vos enfants (où et combien de temps) ?
+	1. Dans quel milieu préférez-vous aller (forêt, ville, etc.) ?
+## Technologies
+1. Avez-vous des règles pour les appareils technologiques (smartphones, tablettes, ordinateurs, etc.) ?
+	1. Pour les enfants ?
+	2. Pour vous ?
+	3. Pour vous avec les enfants (tel. ou non lorsque vous êtes avec les enfants) ?
+2. Possédez-vous des réseaux sociaux ?
 ## Application AppY
-Description de l'application : 
 1. Êtes-vous à l'aise avec votre smartphone ?
-	1. Pour déclencher une interaction avec votre environnement, quelle est le système le plus pratique pour vous entre un QR code et une borne Bluetooth ?
-2. Si l'application AppY proposait de faire partie d'une communauté 
+2. Seriez-vous intéressé par une application qui propose des parcours à faire dans la commune d'Yverdon avec des postes où il y a une activité à faire sur place ?
+3. Quelles méthodes ou ou applications préférez-vous pour interagir avec votre environnement à l'aide de votre smartphone ?
+	1. Par exemple scanner un QR code pour donner votre avis, détection géographique 
+4. Seriez-vous intéressé à interagir avec la communauté AppY ?
+	1. Exemple : avis sur les parcours, discuter avec d'autres membres, proposer des parcours
+5. Seriez-vous intéressé par des aspects de gamification ?
+	1. Finir des parcours pour obtenir des points et avoir une récompense ? Par quel type de récompenses seriez-vous intéressés ?
 
 
 Poser des questions sur l’aspect communautaire, donner son avis, gamification
