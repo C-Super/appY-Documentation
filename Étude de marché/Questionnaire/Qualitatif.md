@@ -15,7 +15,7 @@ Nous vous remercions par avance pour le temps que vous accorderez à ce sondage.
 	1. Avez-vous des souvenirs en particulier (bon ou mauvais) ?
 2. Quels sont les dernières activités que vous avez faites avec vos enfants ?
 	1. À quelle fréquence ?
-3. Faites-vous des balades avec vos enfants (où et combien de temps) ?
+3. Faites-vous des balades avec vos enfants (où, combien de temps et fréquence) ?
 	1. Dans quel milieu préférez-vous aller (forêt, ville, etc.) ?
 ## Technologies
 1. Avez-vous des règles pour les appareils technologiques (smartphones, tablettes, ordinateurs, etc.) ?
@@ -25,13 +25,13 @@ Nous vous remercions par avance pour le temps que vous accorderez à ce sondage.
 2. Possédez-vous des réseaux sociaux ?
 ## Application AppY
 1. Êtes-vous à l'aise avec votre smartphone ?
-2. Seriez-vous intéressé par une application qui propose des parcours à faire dans la commune d'Yverdon avec des postes où il y a une activité à faire sur place ?
+2. Seriez-vous intéressé par des aspects de gamification ?
+	1. Finir des parcours pour obtenir des points et avoir une récompense ? Par quel type de récompenses seriez-vous intéressés ?
 3. Quelles méthodes ou ou applications préférez-vous pour interagir avec votre environnement à l'aide de votre smartphone ?
 	1. Par exemple scanner un QR code pour donner votre avis, détection géographique 
-4. Seriez-vous intéressé à interagir avec la communauté AppY ?
+4. Seriez-vous intéressé par une application qui propose des parcours à faire dans la commune d'Yverdon avec des postes où il y a une activité à faire sur place ?
+6. Seriez-vous intéressé à interagir avec la communauté de cette application ?
 	1. Exemple : avis sur les parcours, discuter avec d'autres membres, proposer des parcours
-5. Seriez-vous intéressé par des aspects de gamification ?
-	1. Finir des parcours pour obtenir des points et avoir une récompense ? Par quel type de récompenses seriez-vous intéressés ?
 
 
 Poser des questions sur l’aspect communautaire, donner son avis, gamification
