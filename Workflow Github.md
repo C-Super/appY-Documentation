@@ -1,6 +1,6 @@
 ## Créer une nouvelle tache 
-1. Dans le [projet GitHub](https://github.com/orgs/C-Super/projects/1), créer une nouvelle issue avec le bouton au bas des colonnes ![workflow_1](workflow_1.png)
-2. Dans la barre qui apparaît, tapez un dièse et sélectionnez "couleur3".![workflow_2](workflow_2.png)
+1. Dans le [projet GitHub](https://github.com/orgs/C-Super/projects/8), créer une nouvelle issue avec le bouton au bas des colonnes ![workflow_1](workflow_1.png)
+2. Dans la barre qui apparaît, tapez un dièse et sélectionnez le repo.![workflow_2](workflow_2.png)
 3. Cliquez sur "create new issue"![workflow_3](workflow_3.png)
 4. Entrez les informations de la tâche.![workflow_4](workflow_4.png)
 5. Cliquez sur le titre de la nouvelle issue dans le projet pour afficher les details, et compléter avec les informations manquantes (**ne pas oublier les dates pour le Gantt**, ainsi que l'iteration qui correspond au sprint).![workflow_5](workflow_5.png)
