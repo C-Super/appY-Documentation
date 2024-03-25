@@ -1,4 +1,4 @@
-## PV daily 22.03.24
+# PV daily 22.03.24
 - Après-midi
 	- Démo mise en place outils
 	- Démo Obsidian
@@ -20,3 +20,27 @@
 		- Liste de questions
 		- Première idée de quoi faire
 		- -> étude de marché pour démarchage
+# PV daily 25.03.24
+## Branding
+- Caro
+	- Flyers faits et imprimés
+	- (bravo)
+	- Alyson
+		- TB chez Totemi
+		- À contacter
+- Marine &co
+	- Petits tours dans Yverdon pour démarcher commerces locaux
+## Etude de marché
+- Patrick
+	- Retour itw Louis
+		- Habite en campagne
+		- Se déplace souvent en voiture avec sa fille
+		- Minimaliste technologique
+		- Préfère NFC
+		- Aspect communautaire MAIS physique >>
+## Inputs autres
+- Myriam
+	- Préciser NFC dans les prochaines interviews
+- Cassandre
+	- Donner RDV via post insta
+	- 
