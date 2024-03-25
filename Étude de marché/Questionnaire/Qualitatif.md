@@ -10,6 +10,7 @@ Nous vous remercions par avance pour le temps que vous accorderez à ce sondage.
 2. Combien d’enfants avez-vous ?
 3. Quel âge ont-ils ?
 4. Où habitez-vous ? (si Yverdon centre ou extérieur)
+5. Quel est votre état civil ? (Êtes-vous avec l'autre parent?)
 ## Habitudes
 1. Lorsqu'on parle de sorties avec vos enfants, à quoi pensez-vous ? 
 	1. Avez-vous des souvenirs en particulier (bon ou mauvais) ?
@@ -27,11 +28,8 @@ Nous vous remercions par avance pour le temps que vous accorderez à ce sondage.
 1. Êtes-vous à l'aise avec votre smartphone ?
 2. Seriez-vous intéressé par des aspects de gamification ?
 	1. Finir des parcours pour obtenir des points et avoir une récompense ? Par quel type de récompenses seriez-vous intéressés ?
-3. Quelles méthodes ou ou applications préférez-vous pour interagir avec votre environnement à l'aide de votre smartphone ?
-	1. Par exemple scanner un QR code pour donner votre avis, détection géographique 
+3. Quelles méthodes ou applications préférez-vous pour interagir avec votre environnement à l'aide de votre smartphone ? Et pourquoi ?
+	1. Par exemple NFC, Bluetooth, scanner un QR code pour donner votre avis, détection géographique 
 4. Seriez-vous intéressé par une application qui propose des parcours à faire dans la commune d'Yverdon avec des postes où il y a une activité à faire sur place ?
 6. Seriez-vous intéressé à interagir avec la communauté de cette application ?
 	1. Exemple : avis sur les parcours, discuter avec d'autres membres, proposer des parcours
-
-
-Poser des questions sur l’aspect communautaire, donner son avis, gamification

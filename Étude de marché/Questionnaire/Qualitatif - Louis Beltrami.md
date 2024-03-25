@@ -10,7 +10,7 @@ Nous vous remercions par avance pour le temps que vous accorderez à ce sondage.
 2. Combien d’enfants avez-vous ? 1
 3. Quel âge ont-ils ? 3 ans
 4. Où habitez-vous ? (si Yverdon centre ou extérieur) Oppens
-5. État civil : célibataire
+5. État civil : Célibataire - Garde partagée
 ## Habitudes
 1. Lorsqu'on parle de sorties avec vos enfants, à quoi pensez-vous ? 
 	Aller à la place de jeu, promenade parc piscine, zoo, carnaval.
