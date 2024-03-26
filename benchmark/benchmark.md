@@ -6,11 +6,12 @@ Nous avons réalisé un benchmark pour analyser les applications similaires, mai
 ## Totemi
 Parcours interactifs & jeux de piste dans la ville.  
 Création d’expériences uniques de balades numériques et de sentiers connectés.
-### Points positifs
+
+**Points positifs**
 - Scénarios, énigmes  
 - Boîtiers pour géolocalisation  
 - Détails et données du parcours
-### Points négatifs
+**Points négatifs**
 - Affichage des parcours 
 - Manque de mode d'emploi de l'application
 - UX de l'app
@@ -22,8 +23,7 @@ Graaly est une application d'escape game personnalisable. Graaly anime tout type
 Foxtrail est un mélange de visite touristique, d’escape room en plein air et de jeu de piste dans plusieurs ville. La ville se transforme alors en terrain de jeux. Ce qui est intéressant, c'est que certaines énigmes proposent des jeux dans la réalité. L’application n’a pas l’air nécessaire pour jouer, cela permet seulement d'avoir les informations qui sont normalement disponibles en papier. De plus, les participants partent à la recherche du renard, qui fait un peu office de mascotte de Foxtrail. 
 
 ## Je trottine dans ma ville
-(https://jetrottinedansmaville.ch/)
-*Je trottine dans ma ville* propose différents parcours à travers la ville de Lausanne pour les enfants de 3 à 7 ans. Ces parcours se passent à travers diverses thématiques qui boostent l'imaginaire des enfants au travers de devinettes et d'activités tout au long du chemin afin de les rendre curieux de ce qui les entours. Ces ballades sont gratuites et sans besoin d'inscription, en tous temps avec une accompagnatrice et ont une durée de 2 heures 40 minutes.
+[*Je trottine dans ma ville*](https://jetrottinedansmaville.ch/) propose différents parcours à travers la ville de Lausanne pour les enfants de 3 à 7 ans. Ces parcours se passent à travers diverses thématiques qui boostent l'imaginaire des enfants au travers de devinettes et d'activités tout au long du chemin afin de les rendre curieux de ce qui les entours. Ces ballades sont gratuites et sans besoin d'inscription, en tous temps avec une accompagnatrice et ont une durée de 2 heures 40 minutes.
 
 ![[screenshot-lespromenadesdefloriane.ch-2024.03.25-11_53_36.png  ]]
 *Des dates d'événements sont proposées en avance afin que les familles aient le temps de s'organiser.*
@@ -37,10 +37,6 @@ Foxtrail est un mélange de visite touristique, d’escape room en plein air et 
 Ce qu'on pourrait reprocher à ce site est le passage invisible sur un autre site. L'accompagnatrice dont parle *Je trottine dans ma ville* à son site, *Les promenades de Floriane* qui propose les mêmes ballades pour les enfants de 3 à 7 ans mais également des promenades pour les enfants de 6 à 10 ans ainsi que pour les seniors.  Les sites étant similaires, les utilisateurs peuvent être vite perdus dans leur navigation et peuvent parfois se sentir biaisés !
 ![[screenshot-lespromenadesdefloriane.ch-2024.03.25-13_44_20.png  ]]
 *Le site "Les promenades de Floriane" est très/trop similaire au site et est facteur de confusion.*
-
-
-## Art en ville - Ville de Lausanne
-
 
 # Fonctionnalités
 ## Gamification
@@ -69,4 +65,4 @@ L’app Detektiv propose des couleurs pour différencier les parcours. De plus, 
 
 # Conclusion
 
-Pour plus d’information voir FigJam [https://www.figma.com/file/obz004l31D1Byg9QynrFKN/BenchMark?type=whiteboard&node-id=0-1&t=W2J2cwIa9wHmTpAu-0](https://www.figma.com/file/obz004l31D1Byg9QynrFKN/BenchMark?type=whiteboard&node-id=0-1&t=W2J2cwIa9wHmTpAu-0)**
+Pour plus d’information voir [FigJam](https://www.figma.com/file/obz004l31D1Byg9QynrFKN/BenchMark?type=whiteboard&node-id=0-1&t=W2J2cwIa9wHmTpAu-0)
