@@ -24,7 +24,7 @@ Artis art et décoration
 café le starmania <span style="color:orange">REVENIR JEUDI FORMULAIRE PAR PAPIER</span>
 La ferme  produits du terroir
 YLBconcept
-Nul part ailleurs dclencheur de bonheur
+Nul part ailleurs déclencheur de bonheur
 La laiterie du château
 Bellallure (coiffeur)
 Nomad
