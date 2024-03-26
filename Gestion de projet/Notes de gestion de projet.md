@@ -1,52 +1,31 @@
-# PV daily 22.03.24
+# Main events
+## Début -> sprint planning
+1. Backlog trié (par priorité) par PO
+2. Par sous-équipe
+	1. Où en sont leur tâches courantes
+	2. Ajouter des tâches en fonction de la vélocité (sprintPoints = temps*difficulté)
+3. PO ré-organise en fonction
 
-- Après-midi
-- Démo mise en place outils
-- Démo Obsidian
-- Démo Github Projects
-- Benchmark
-- Totemi
-- Proposition de collaboration
+## Daily (max 30min) [[PV Daily 22.03.2024]] 
+- Est-ce que t'as des blocages?
+	- Si quelqu'un s'éternise, en parler après au cas par cas
+- Est-ce que t'as des besoins pour la suite?
 
-- Etude de marché
-- Pas de positionnement -> dépend du benchmark
-- Pas besoin de mettre les parcours à jour chaque année
-- Besoin de regarder constamment son téléphone? Appli smartwatch ?
-- Radius
-- Besoin de modération?
-- Aspect communautaire, feed insta?
+##  Fin -> Retro (1h00-1h30)
+- Dire ce que t'as fait
+- Montrer des démos
+- https://retrotool.io/
+	- Start = Idées qui pourraient résoudre/débloquer/améliorer le processus
+	- Stop = Idées de choses qu'on pourrait arrêter (time loss)
+	- Continue = Choses bien, qui ne sont pas des habitudes, mais sont pertinentes
+- Si pas fini -> expliquer le blocage
 
-- B2B
-- Liste des commerçants faite
-- Liste de questions
-- Première idée de quoi faire
-- -> étude de marché pour démarchage
-
-# PV daily 25.03.24
-
-## Branding
-
-- Caro
-- Flyers faits et imprimés
-- (bravo)
-- Alyson
-- TB chez Totemi
-- À contacter
-- Marine &co
-- Petits tours dans Yverdon pour démarcher commerces locaux
-
-## Etude de marché
-
-- Patrick
-- Retour itw Louis
-- Habite en campagne
-- Se déplace souvent en voiture avec sa fille
-- Minimaliste technologique
-- Préfère NFC
-- Aspect communautaire MAIS physique >>
-
-## Dev
-
-- Sam
-- Faire que le minimum
-- Pas s'attarder sur un back-end
+### Tips
+- Kanban -> Todo/Ongoing/Review/Test/Finished
+	- Review/tests constants si coup de mou
+	- Si problème, itératif
+		- Bug report complet
+- PO+UX+Marketing -> valide dev
+- Job
+	- médiateur pour problèmes
+	- médiateur du savoir
