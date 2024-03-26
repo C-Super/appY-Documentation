@@ -51,6 +51,8 @@ Zombies run est une application qui gamifie l’action de courir. Plus l’utili
   
 L’app Trivial Poursuite propose de catégoriser les questions. Une roue permet de sélectionner une question aléatoirement. Les réponses aux questions sont disponibles directement après que l’utilisateur ait répondu.   
 
+L’application pourrait contenir des mécanismes pour attirer ou garder les utilisateurs sur l’application. Par exemple, l’app QoQa montre des jauges pour la progression des ventes. Les événements à durée limitée permettent de créer une urgence qui pousse l’utilisateur à acheter.
+
 ## Intéractions 
 
 Polar Steps est une application qui propose de placer des photos sur une carte pour tracer le voyage à l’aide de photos. Est-ce que les parents qui utilisent appY voudraient un moyen de garder une trace de leur parcours directement sur l’app ? 
@@ -58,6 +60,12 @@ Polar Steps est une application qui propose de placer des photos sur une carte p
 Géocatching est une application de chasse au trésor qui utilise le GPS pour amener l’utilisateur à chercher une boîte remplie de trésors placés en ville ou dans la nature. Le concept a un aspect communautaire, car les utilisateurs sont amenés à échanger des petits objets via les boîtes cachées. 
   
 Genius loci propose de créer des QR-code qui s'intègrent dans le paysage. L’espace de stockage est lié aux lieux et le contenu est personnalisable. 
+
+## Cartographie 
+
+Pour la cartographie, la carte Snapchat propose de voir les autres utilisateurs, des heatmaps pour voir la concentration de story ou des points de couleurs pour différencier les types de lieux. La localisation de l’utilisateur est écrite en haut de l’écran automatiquement.   
+
+L’app Detektiv propose des couleurs pour différencier les parcours. De plus, une prévisualisation du parcours permet de montrer les éléments importants en lien avec le parcours.
 
 # Conclusion
 
