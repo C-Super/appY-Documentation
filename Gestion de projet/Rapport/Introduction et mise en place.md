@@ -1,10 +1,23 @@
 La gestion de projet est un élément crucial pour que le projet se déroule sans accro, surtout lorsque l'on est sur une méthodologie agile car il faut que les processus soient clairs pour que tout le monde comprenne quoi faire et comment le faire.
 ## Organisation
+### Ressources humaines
 Pour ce qui est de l'organisation, nous avons commencé le projet par prévoir les différentes équipes dont nous aurions besoin et d'y affecter des personnes par préférence.
 
 Cependant, étant tous des ingénieurs des médias avec des capacités relativement similaires, ces équipes sont une base et non une structure dure. Tout le monde peut aider ou avoir envie de faire autre chose à un moment où à un autre. L'utilité de ces affectations est de toujours avoir des personnes de contact si un membre de l'équipe d'un autre secteur a une interrogation sur un domaine sur lequel il n'a pas collaboré.
 
 ![[repartitionEquipes.jpg]]
+### Temporelle
+Le projet dure 4 semaines, nous avons dû adapter la réalisation du projet à ce délai. De plus, les deux premiers sprint durent 4 jours étant donné que le projet a dû commencer avec une demi-journée de retard à cause de l'organisation des groupes et du vendredi 29 mars qui est férié.
+
+Nous avons décidé de répartir les étapes importantes du projet sur les sprints afin d'avoir une base sûre :
+1. Le premier sprint est à la fois le premier et le sprint zero. Son but est d'organiser l'équipe et de mettre en place les différents outils dont nous aurons besoin pour communiquer et pour collaborer. En parallèle l'équipe se chargera du pré-projet qui contient l'étude de marché, le benchmark, le branding et l'initiation des stratégies marketing B2C et B2B.
+2. Le deuxième sprint sera consacré à établir les bases du produit avec les informations que l'on aura recueillies durant le premier sprint. Ce sera donc principalement des travaux concernant l'UI/UX, l'architecture et l'infrastructure de développement et l'établissement final de la stratégie marketing.
+3. Le troisième sprint sera uniquement constitué d'une phase de réalisation qui concernera toutes les productions multimédia, allant des visuels au produit final. Cela nous permettra d'avoir rapidement le gros du projet afin de le présenter au PO et au noyau pédagogique.
+4. Le dernier sprint sera un sprint de peaufinage et d'user testing si l'on a le temps. Il nous permettra de finaliser le produit afin de le rendre présentable. Une partie de l'équipe sera, durant cette phase, sur la transcription du rapport en markdown vers un modèle final mis en page ainsi que sur la présentation.
+
+Beaucoup de ces tâches, comme la production UI/UX, se font de manière itérative tout au long du projet. Elles se réaliseront en effet de la sorte, mais ces jalons sont prévus pour avoir une bonne direction et ainsi permettre à d'autres tâches de débuter sans être bloquées car elles sont dépendantes d'autres.
+
+![[organisationHebdomadaire.jpg]]
 ## Mise en place de la gestion de projet agile
 ### Sprint planning
 Le Sprint Planning est le première étape, elle se fait en début de Sprint afin de l'initier. Pour se faire il faut respecter plusieurs étapes.
