@@ -16,7 +16,7 @@ Programme:
 14:00 - 14:30 Mise en commun et tri des stories
 14:30 - 15:30 Génération et attribution des issues. 
 
-### Définition users
+## Définition users
 
 **Karen** pense que les commerçants sont pas nos users.
 **Vincent** dit que c'est des partenaires, même si c'est pas vraiment des users. En B2B on appelle ça des client stories mais c'est la même chose. 
@@ -30,3 +30,6 @@ Parents ciblés  (Vincent, Marine, Nicolas)
 Enfants ciblés (Laura, Caroline)
 Promeneurs ciblés (Myriam, Cassandre)
 Commerçants ciblés (Karen, Patrick)
+
+## User stories
+
