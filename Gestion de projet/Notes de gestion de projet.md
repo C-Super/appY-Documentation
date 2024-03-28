@@ -29,3 +29,8 @@
 - Job
 	- médiateur pour problèmes
 	- médiateur du savoir
+
+# NEW THINGS
+- Joris sois un vrai PO
+- Turbo dailies (1min/p)
+- Weeklies -> seulement chefs
