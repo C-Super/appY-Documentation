@@ -1,5 +1,3 @@
-# PV Daily 22.03.2024
-
 **Présents**: Laura, Marine, Vincent, Patrick, Nicolas, Joris, Samuel, Caroline, Rossiny, Cassandre, Myriam
 **À distance**: Miguel
 **Absente**: Karen

@@ -6,7 +6,7 @@
 	2. Ajouter des tâches en fonction de la vélocité (sprintPoints = temps*difficulté)
 3. PO ré-organise en fonction
 
-## Daily (max 30min) [[PV Daily 22.03.2024]] 
+## Daily (max 30min) [[PV Daily 2024.03.22]] 
 - Est-ce que t'as des blocages?
 	- Si quelqu'un s'éternise, en parler après au cas par cas
 - Est-ce que t'as des besoins pour la suite?
