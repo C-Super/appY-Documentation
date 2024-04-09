@@ -30,4 +30,6 @@ Chaque parcours repose sur son propre story telling. La structure du déroulemen
 
 Notre parcours suit la structure suivante: après avoir été appelé par le professeur, qui donne toutes les informations et l'artefact à l'enfant, la famille part à la rencontre des différents interlocuteurs à aider pour retrouver le brouillard. À la fin de chaque poste, un bout de brouillard est emprisonné. En chemin, il va se retrouver face à un obstacle (un sort du sorcier par exemple). Avec l'aide d'un personnage, il va réussir à surmonter l'obstacle et poursuivre sa mission. Après avoir terminé les postes suivant et emprisonné tout le brouillard, le professeur apparait pour le remercier de son aide et lui offre une récompense. 
 
-![[Création de parcours.jpg]]
+![[Structure-parcours.jpg]]
+
+Cette structure permet de conserver une cohérence entre les parcours et assurer un déroulement engageant pour les enfants qui y participent. 
