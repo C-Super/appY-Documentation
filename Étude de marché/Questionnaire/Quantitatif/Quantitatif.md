@@ -5,9 +5,9 @@ https://docs.google.com/forms/d/1TdytUVujckT47CsSGS5vrNwv1ufFL5nUc0axUW0zlrE/edi
   
 ### Introduction  
   
-Ce projet a été effectué dans l’idée d’apporter à la ville d’Yverdon une solution pour améliorer son image auprès du reste de la Romandie. Le but a terme est d’amené des nouvelles personnes à s’installer dans la ville.  
+Ce projet a été effectué dans l’idée d’apporter à la ville d’Yverdon une solution pour améliorer son image auprès du reste de la Romandie. Le but, à terme, est d’amener de nouvelles personnes à s’installer dans la ville.
   
-Jusqu’ici, un brainstorm sur les besoins supposés des habitants a mené à la création d’un questionnaire qualitatif que nous nommerons “quali”. À partir de ce quali, nous avons découvert des besoins insoupçonnés par notre équipe, comme le fait que les familles avaient du plaisir à se rencontrer dans les parcs et que cela créait des bons souvenirs, ce qui est en partie notre objectif.  
+Jusqu’ici, un brainstorming sur les besoins supposés des habitants a mené à la création d’un questionnaire qualitatif que nous nommerons “quali”. À partir de ce quali, nous avons découvert des besoins insoupçonnés par notre équipe, comme le fait que les familles avaient du plaisir à se rencontrer dans les parcs et que cela créait des bons souvenirs, ce qui est en partie notre objectif.  
   
 Maintenant, le questionnaire quantitatif, que nous abrégerons en “quanti”, a été crée dans le but de mesurer les différents éléments tirer des besoins des futurs utilisateurs (les familles), ainsi que les questions de l’équipe de développement (connaître la capacité des familles vis-à-vis de certaines technologie comme les QR-Code, le NFC, etc...).  
   
