@@ -33,3 +33,12 @@ slidenumbers: true
 ![inline](https://cdn.discordapp.com/attachments/1220740796916170793/1227252783334555719/20240409_154402.jpg?ex=6627bb38&is=66154638&hm=e24b6225aa042104f664671ae33816e2494468fe85d45dc09781d4defcd4c584&)
 
 ---
+# Livrables
+
+- Quels sont les attentes ?
+- Qui va maintenir l'application ?
+- Contraintes techniques de l'état ?
+^ On peut pas fournir une application fonctionnelle en 5 semaines..
+^ Mieux vaut fournir un rapport concernant toutes les réflexion UI/UX que la ville pourra transmettre à une agence de dev si elle débloque les fonds
+
+---
