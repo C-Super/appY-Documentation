@@ -26,7 +26,7 @@ Chaque parcours repose sur son propre story telling. La structure du déroulemen
 
 ![[Courbe-suspense.png]]
 
-Notre parcours suit la structure suivante: après avoir été appelé par la professeure, qui donne toutes les informations et l'artefact à l'enfant, la famille part à la rencontre des différents interlocuteurs à aider pour défaire le sort de Brumus. À la fin de chaque poste, le sort à été défait un peu plus. En chemin, il va se retrouver face à un obstacle (un sort du sorcier par exemple). Avec l'aide d'un personnage, il va réussir à surmonter l'obstacle et poursuivre sa mission. Après avoir terminé les postes suivant et emprisonné tout le brouillard, la professeure apparait pour le remercier de son aide et lui offre une récompense. 
+Notre parcours suit la structure suivante: après avoir été appelé par la professeure, qui donne toutes les informations sur la situation et explique le sort à contrer à l'enfant, la famille part à la rencontre des différents interlocuteurs à aider pour défaire le sort de Brumus. À la fin de chaque poste, un élément modifié par le sort est retourné à son état originel grâce à l'action de l'enfant. En chemin, il va se retrouver face à un obstacle (quelqu'un ou quelque chose qui va lui mettre des bâtons dans les roues). Avec l'aide d'un personnage, il va réussir à surmonter l'obstacle et poursuivre sa mission. Après avoir terminé les derniers postes et rétabli tous les éléments impactés par le mauvais sort, la professeure apparait pour remercier la famille de son aide et lui offre une récompense. 
 
 ![[Structure-parcours.jpg]]
 
