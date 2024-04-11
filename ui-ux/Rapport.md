@@ -10,7 +10,7 @@ Cependant, les personnes évitent d'être sur leur téléphone en présence de o
 
 Les personnes aiment aussi sociabiliser et rencontrer d'autres familles mais ne sont pas forcément promptes à établir des contacts sociaux au travers de l'application, c'est pour cela que nous avons décidé d'intégrer un "compteur d'activité" qui communique le nombre de familles qui font le parcours en cours.
 
-Les personas nous ont permit de mieux pouvoir imaginer nos clients potentiels, ce qui nous a permit de nous mettre à leur place plus facilement afin de designer une app faite pour eux.
+Les personas nous ont servi à mieux pouvoir imaginer nos clients potentiels, ce qui nous a permis de nous mettre à leur place plus facilement afin de designer une app faite pour eux.
 
 En finalité, les principales fonctionnalités qui ont résulté des études préliminaires dans la matrice must have sont: 
 - Carte avec points d'intérêt
@@ -21,7 +21,7 @@ En finalité, les principales fonctionnalités qui ont résulté des études pr�
 
 Toutes les études citées sont disponibles en annexe.
 ## Interactions non-visuelles
-Pour ce qui est des interactions n'utilisant pas le téléphone, nous en avons imaginé de plusieurs types. Une app companion pour Apple Watch pourrait être une idée mais nous ne la jugions pas pertinente car cela embêterait les personnes en les obligeant à télécharger l'app sur leur appareil s'ils la voulaient tout en n'augmentant pas l'expérience de l'enfant.
+Pour ce qui est des interactions n'utilisant pas le téléphone, nous en avons imaginé de plusieurs types. Une app companion pour Apple Watch pourrait être une idée mais nous ne la jugions pas pertinente car cela embêterait les personnes en les obligeant à télécharger l'application sur leur appareil s'ils la voulaient tout en n'augmentant pas l'expérience de l'enfant.
 
 Pour commencer nous aurons l'intégration de l'audio ce qui permettra d'éviter à l'enfant de passer trop de temps sur le téléphone à lire le texte. Pour cela le parent aura deux choix, soit le lire à voix haute soit appuyer sur le haut-parleur qui jouera l'audio du texte.
 
