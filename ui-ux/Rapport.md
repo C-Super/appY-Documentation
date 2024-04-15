@@ -27,15 +27,15 @@ Pour commencer nous aurons l'intégration de l'audio ce qui permettra d'éviter 
 
 Lorsque l'utilisateur arrivera suffisamment près du poste, une vibration et une sonnerie retentiront, lui disant de sortir son téléphone.
 # Ontologie et taxonomie
-L'ontologie est une étape fondamentale dans le processus de conception du projet appY.  Elle a joué un rôle crucial en établissant une structure sémantique claire et en définissant les relations entre les différents éléments du système. En utilisant des concepts et des relations bien définis, nous avons pu garantir une cohérence et une compréhension uniforme à travers l'ensemble de l'interface utilisateur.
+L'ontologie est une étape fondamentale dans le processus de conception du projet appY. Elle a joué un rôle crucial en établissant une structure sémantique claire et en définissant les relations entre les différents éléments du système. En utilisant des concepts et des relations bien définis, nous avons pu garantir une cohérence et une compréhension uniforme à travers l'ensemble de l'interface utilisateur.
 
-En cartographiant les termes et les concepts clés, elle a également servi de référence centrale pour la prise de décisions, permettant ainsi d'identifier les lacunes dans notre compréhension du domaine et de clarifier les ambiguïtés potentielles. Cette approche a accéléré le développement du projet et assuré une communication claire et cohérente tout au long de son déroulement.
+En cartographiant les termes et les concepts clés, elle a également servi de référence centrale pour la prise de décisions, permettant ainsi d'identifier les lacunes dans notre compréhension du domaine et de clarifier les ambiguïtés potentielles. Cette approche a accéléré le développement du projet et a assuré une communication claire et cohérente tout au long de son déroulement.
 
 La mise en place d'une taxonomie est la suite logique à l'ontologie. L'objectif principal est de simplifier la navigation et de permettre aux utilisateurs de trouver rapidement ce dont ils ont besoin. Elle est cruciale en structurant de manière organisée les différents éléments de l'application, tels que les catégories et les fonctionnalités principales. En définissant clairement ces structures, nous avons pu créer une hiérarchie logique qui guide l'utilisateur à travers l'application de manière intuitive.
 
 De plus, la taxonomie a facilité la gestion et la maintenance de l'application appY. En classant soigneusement les informations et en les organisant de manière cohérente, nous avons simplifié le processus d'ajout de nouveaux contenus ou fonctionnalités. Cette approche a permis de garantir une évolutivité efficace de l'application, en minimisant les risques d'erreurs ou de confusions lors des mises à jour ultérieures.
 
-Grâce à ces deux travaux, nous avons pu faire du tri dans nos nombreuses idées de départ, et en  définir clairement  deux catégories majeures et leurs sous-catégories dans l'application :
+Avec à ces deux travaux, nous avons pu faire du tri dans nos nombreuses idées de départ, et en définir clairement deux catégories majeures et leurs sous-catégories dans l'application :
 - Les balades,
 	- en nature,
 	- en ville.
@@ -44,4 +44,24 @@ Grâce à ces deux travaux, nous avons pu faire du tri dans nos nombreuses idée
 	- pourcentage,
 	- invendus,
 	- produit gratuit.
+Avec cette première division, on a pu mettre en place le menu de l'application :
+- balades,
+- histoires,
+- bons,
+- compte.
+L'application commence sur l'onglet balade sous la section parcours avec les filtres :
+- popularité,
+- proximité,
+- longueur,
+- durée,
+- date,
+- nombre d'activités,
+- en cours.
+À partir de là, les utilisateurs peuvent explorer les différentes balades disponibles, en utilisant les filtres pour affiner leurs choix en fonction de leurs préférences. Une fois qu'ils ont sélectionné une balade, ils peuvent accéder à des détails supplémentaires tels que la distance, la durée, les avis des utilisateurs et les photos. L'onglet "Histoires" permet aux utilisateurs d'accéder à des récits intéressants et des anecdotes liés aux parcours, ajoutant une dimension narrative à leur expérience.
+
+Dans la section "Bons", les utilisateurs peuvent découvrir les offres spéciales disponibles, qu'il s'agisse de rabais, de bons pourcentage, d'articles invendus ou même de produits gratuits. Cette section offre une opportunité aux utilisateurs de bénéficier d'avantages lors de leurs explorations.
+
+Enfin, l'onglet "Compte" permet aux utilisateurs de gérer leur profil, de suivre leur progression à travers les balades effectuées, les succès débloqués et le nombre d'amis parrainés. C'est également là qu'ils peuvent consulter leur niveau d'expérience (XP) et leurs statistiques de jeu.
+
+Grâce à une ontologie bien établie et à une taxonomie claire, l'application appY offre une expérience utilisateur fluide et intuitive, permettant aux utilisateurs de découvrir facilement de nouvelles balades, de profiter d'offres spéciales et de suivre leur progression à travers l'application.
 # Prototype low fidelity
