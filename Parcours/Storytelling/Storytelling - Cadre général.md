@@ -6,7 +6,7 @@ Il était une fois, dans la charmante ville d'Yverdon-les-Bains, un problème pe
 
 C'est alors qu'un sorcier bienveillant du nom de Brumus, vivant dans une vallée verdoyante non loin de la ville, entendit parler de leur situation. Touché par leur histoire, il décida d'utiliser ses pouvoirs magiques pour les aider. Cependant, malgré ses bonnes intentions, chaque fois que Brumus lançait un sort pour dissiper le brouillard, les choses tournaient mal. Ses sortilèges, au lieu de résoudre le problème, créaient des situations cocasses et des effets secondaires inattendus qui perturbaient la vie des Yverdonnois.
 
-Heureusement, la ville pouvait compter sur l'aide de la professeure Violette la Castorette, une magicienne compétente et respectée. Consciente des déboires de Brumus, elle décida de prendre les choses en main pour réparer les dégâts causés par les sorts ratés du sorcier bienveillant.
+Heureusement, la ville pouvait compter sur l'aide de l'une de ses habitantes, la professeure Violette la Castorette, une magicienne compétente et respectée. Consciente des déboires de Brumus, elle décida de prendre les choses en main pour réparer les dégâts causés par les sorts ratés du sorcier bienveillant.
 
 ## Situation actuelle
 
