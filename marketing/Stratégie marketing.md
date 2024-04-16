@@ -30,13 +30,17 @@ Affiches dans les villes: 2852 CHF pour 4 semaines avec un total annuel de 5704 
 Flyers: 250 CHF pour 500 exemplaires annuellement
 
 **Participation aux Événements et Marchandising:**  
-Stands dans les événements: 4900 CHF par an.  
-Produits dérivés (Merch) avec un total de 13'406 CHF annuellement.  
+Stands dans les événements: 4900 CHF par an. Ce total comprend le salaire de la personne qui va devoir tenir le stand ainsi que le matériel et la location de l'espace. 
+
+Produits dérivés (Merch) avec un total de 13'406 CHF annuellement. 
+
+Exemple de marchandising avec la peluche de Violette : 
+![[8a405373-a9b3-4d56-a9b6-d43c05396909.webp]]
 
 **Campagnes RS et Autres Activités:**  
 Campagnes RS de 32'400 CHF annuellement.  
 Partenariat avec VaudFamille pour le référencement: 720 CHF par an.  
-Participation aux émissions TV et radio: 9600 CHF par an.  
+Participation aux émissions TV et radio: 9600 CHF par an. Ce budget prend en compte le salaire d'une personne travaillant 2 jours par mois pour trouver des émissions pertinentes, entrer en contact avec, planifier une intervention et participer à l'émission en question. 
 
 ![[Marketing.png]]
 **Notoriété et Objectifs**  
