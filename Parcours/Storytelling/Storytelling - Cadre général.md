@@ -1,6 +1,7 @@
-# Storytelling  - Cadre général
+# Storytelling - Cadre général
 
 ## Contexte (historique)
+
 
 Il était une fois, dans la charmante ville d'Yverdon-les-Bains, un problème persistant empêchait les habitants de profiter pleinement de leur vie quotidienne : le brouillard. Souvent, ce voile grisâtre recouvrait la ville, rendant les déplacements difficiles et les journées moroses. Les citoyens, bien que habitués à ce phénomène, espéraient secrètement trouver une solution pour améliorer leur quotidien.
 
@@ -14,6 +15,7 @@ La professeure Violette la Castorette, ne pouvant pas gérer seule tous les prob
 
 Ainsi commence l'aventure des familles d'Yverdon-les-Bains. Guidés par la professeure Violette, les enfants et leurs parents parcourent les rues de la ville, résolvant des énigmes, aidant les habitants et découvrant les secrets de la magie. Au fil de leur périple, ils apprennent à mieux connaître leur ville, tissent des liens avec leurs voisins et développent leur esprit d'équipe.
 
+
 Les familles affrontent des situations loufoques causées par les sorts de Brumus, comme des lampadaires qui dansent, des bancs qui racontent des blagues ou encore des fontaines qui crachent du chocolat chaud. Chaque défi relevé permet de réparer un peu plus les erreurs du sorcier et de ramener l'harmonie dans la ville.
 
 Finalement, grâce à leur ingéniosité, leur bonne humeur et leur travail d'équipe, les familles parviennent à contrer tous les effets des sorts ratés de Brumus. La ville retrouve son calme et sa sérénité, le brouillard n'étant plus qu'un lointain souvenir. La professeure Violette la Castorette remercie chaleureusement les familles pour leur aide précieuse et leur remet un trésor magique en guise de récompense.
@@ -22,7 +24,7 @@ Brumus, reconnaissant envers les familles et conscient de ses erreurs, promet de
 
 ## Structure du storytelling des parcours
 
-Chaque parcours repose sur son propre story telling. La structure du déroulement est cependant similaire et repose sur la courbe du suspense, un concept pédagogique utilisé pour l'élaboration de fils rouges pour des activités destinées aux enfants et jeunes adultes. Habituellement utilisée pour la conception d'activité sur plusieurs jours, nous avons tout décidé de l'appliquer de manière simplifiée à nos parcours. 
+Chaque parcours repose sur son propre story telling. La structure du déroulement est cependant similaire et repose sur la courbe du suspense, un concept pédagogique utilisé pour l'élaboration de fils rouges pour des activités destinées aux enfants et jeunes adultes. Habituellement utilisée pour la conception d'activité sur plusieurs jours, nous avons tout décidé de l'appliquer de manière simplifiée à nos parcours.
 
 ![[Courbe-suspense.png]]
 
@@ -30,4 +32,4 @@ Notre parcours suit la structure suivante: après avoir été appelé par la pro
 
 ![[Structure-parcours.jpg]]
 
-Cette structure permet de conserver une cohérence entre les parcours et assurer un déroulement engageant pour les enfants qui y participent. 
+Cette structure permet de conserver une cohérence entre les parcours et assurer un déroulement engageant pour les enfants qui y participent.
