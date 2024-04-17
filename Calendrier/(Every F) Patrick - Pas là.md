@@ -1,7 +1,7 @@
 ---
 title: Patrick - Pas là
 allDay: false
-startTime: 15:00
+startTime: 13:30
 endTime: 16:30
 type: recurring
 daysOfWeek: [F]
