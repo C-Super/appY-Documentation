@@ -1,8 +1,17 @@
 
+## Contexte
+
+Ce test d'utilisabilité est effectué pour l'application Appy, qui propose des balades en famille organisées en mode parcours. Les utilisateurs peuvent sélectionner des parcours, obtenir des informations détaillées et suivre des itinéraires guidés.
+
 ## But
 
 Le but des tests utilisateurs serait de vérifier si les tâches définies sont réalisables et conviviales pour les utilisateurs. Cela aiderait à comprendre comment les utilisateurs interagissent avec l'application et à identifier les éventuels problèmes ou obstacles qu'ils pourraient rencontrer lors de l'exécution des tâches spécifiques.
 
+## Méthode
+
+Nous avons effectué un test d’utilisabilité. Ce type de tests consistent à donner un certain nombre de tâches à un testeur. Le testeur doit effectuer les tâches tout en décrivant ses actions et ses pensées(technique de la pensée à voix haute).
+
+Un facilitateur est présent pour guider le testeur tout au long du test. Son rôle est d’encourager le testeur à développer ses réflexions au sujet ses actions, et éventuellement lui apporter de l’aide s’il se retrouve bloqué.
 ## Instructions
 
 Bonjour …
@@ -41,6 +50,8 @@ Vous êtes sur l'application explorer la et indiquez son utilité.
 
 Hypothèse : l’utilisateur va explorer l’application et comprendre l’utilité et faire des retours
 
+Temps : 1 min
+
 #### Critères de réussite :
 
 ·        Identifier clairement l'objectif principal de l'application.
@@ -63,6 +74,8 @@ Facilitateur : Aider à comprendre qu’il doit réaliser la balade. Il va arri
 
 Hypothèse : l’utilisateur pourrait ne pas comprendre comment débuter la balade ainsi que sur Google maps sur le fait que l’utilisateur est trop loin pour commencer.
 
+Temps : 5 min
+
 #### Critères de réussite :
 
 ·        Sélectionner le parcours Pierre de Joie dans l'application de cartographie.
@@ -83,6 +96,8 @@ Facilitateur : Aider l’utilisateur si besoin sans lui donner les réponses, l
 
 Hypothèse : l’utilisateur va trouver ou sont enregistré les bons, mais pourrait ne pas savoir comment l’utiliser
 
+Temps : 2 min 
+
 #### Critères de réussite :
 
 ·        Trouver ou sont enregistrées les bons dans l’application
@@ -102,6 +117,8 @@ Vous êtes chez vous et votre enfant vous parle de la balade que vous avez faite
 Facilitateur : Aider l’utilisateur si besoin sans lui donner les réponses, l’aiguiller, lui demander pourquoi il ne comprend pas
 
 Hypothèse : l’utilisateur va chercher dans le parcours  l’histoire de la pierre de joie ou l’utilisateur va trouver l’onglet histoire.
+
+Temps : 2-3 min
 
 #### Critères de réussite :
 
