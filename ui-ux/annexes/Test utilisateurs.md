@@ -1,4 +1,3 @@
-#  Test utilisateurs
 
 ## Contexte
 
@@ -61,11 +60,7 @@ Hypothèse : l’utilisateur va explorer l’application et comprendre l’utili
 ·        Être en mesure d'expliquer de manière concise l'utilité de l'application.
 
 #### SEQ
-
-Dans l’ensemble, cette tâche était...
-
-**Très facile**      ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)         ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)       ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)     **Très difficile**
-
+![[SEQ.png]]
 ### Tache 1 
 
 Vous aimeriez effectuer une balade avec vos enfants, vous décidez de commencer le parcours pierre de joie.
@@ -82,10 +77,7 @@ Hypothèse : l’utilisateur pourrait ne pas comprendre comment débuter la bala
 
 #### SEQ
 
-Dans l’ensemble, cette tâche était...
-
-**Très facile**      ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)         ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png)       ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)     **Très difficile**
-
+![[SEQ.png]]
 ### Tache 2
 
 Vous êtes au café du milieu quelques jours plus tard, vous vous souvenez avoir obtenu un bon pour ce café grâce au parcours Pierre de Joie. Vous décidez de l'utiliser lorsque vous recevrez l'addition.
@@ -101,11 +93,7 @@ Hypothèse : l’utilisateur va trouver ou sont enregistré les bons, mais pourr
 ·        Présenter le bon pour le paiement de l'addition
 
 #### SEQ
-
-Dans l’ensemble, cette tâche était...
-
-**Très facile**      ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png)         ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)       ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png)     **Très difficile**
-
+![[SEQ.png]]
 ### Tache 3
 
 Vous êtes chez vous et votre enfant vous parle de la balade que vous avez faite la semaine passée, la pierre de joie. Il/, elle vous pose des questions et vous décidez de lui lire l’histoire dédiée.
@@ -121,7 +109,4 @@ Hypothèse : l’utilisateur va chercher dans le parcours  l’histoire de la p
 ·        Commencer à lire
 
 #### SEQ
-
-Dans l’ensemble, cette tâche était...
-
-**Très facile**      ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image011.png)         ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)        ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)       ![](file:///C:/Users/rossi/AppData/Local/Temp/msohtmlclip1/01/clip_image011.png)     **Très difficile**
+![[SEQ.png]]
