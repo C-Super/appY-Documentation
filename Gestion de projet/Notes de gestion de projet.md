@@ -6,7 +6,7 @@
 	2. Ajouter des tâches en fonction de la vélocité (sprintPoints = temps*difficulté)
 3. PO ré-organise en fonction
 
-## Daily (max 30min) [[PV Daily 22.03.2024]] 
+## Daily (max 30min) [[PV Daily 2024.03.22]] 
 - Est-ce que t'as des blocages?
 	- Si quelqu'un s'éternise, en parler après au cas par cas
 - Est-ce que t'as des besoins pour la suite?
@@ -28,4 +28,12 @@
 - PO+UX+Marketing -> valide dev
 - Job
 	- médiateur pour problèmes
+		- Nico
 	- médiateur du savoir
+		- Caro, Myriam
+- Voir ça comme "un grand sprint avec un livrable à la fin"
+
+# NEW THINGS
+- Joris sois un vrai PO
+- Turbo dailies (1min/p)
+- Weeklies -> seulement chefs
