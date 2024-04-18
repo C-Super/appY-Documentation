@@ -51,6 +51,11 @@
   - Préciser NFC dans les prochaines interviews
 - Cassandre
   - Donner RDV via post insta
+## Dev
+
+- Sam
+- Faire que le minimum
+- Pas s'attarder sur un back-end
 
 # PV daily 26.03.2024
 

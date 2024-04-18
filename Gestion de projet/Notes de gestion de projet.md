@@ -28,7 +28,10 @@
 - PO+UX+Marketing -> valide dev
 - Job
 	- médiateur pour problèmes
+		- Nico
 	- médiateur du savoir
+		- Caro, Myriam
+- Voir ça comme "un grand sprint avec un livrable à la fin"
 
 # NEW THINGS
 - Joris sois un vrai PO
