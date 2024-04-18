@@ -46,7 +46,7 @@ Pour les magazine : BD de 3-4 cases avec une petites histoires simples mettant e
 
 Après le ton utilisé, il est important de préciser pour chaque canal, quels sont les public ciblé et la forme de celle-ci.
 
-## Guide Instragram (+Facebook)
+## Guide Instagram (+Facebook)
 
 ![[GuidelineDisplay.png]]
 
@@ -62,7 +62,7 @@ Après le ton utilisé, il est important de préciser pour chaque canal, quels s
 
 ![[GuideBus.png]]
 
-## Guide événement
+## Guide pour les événements
 
 ![[GuideEvent.png]]
 
