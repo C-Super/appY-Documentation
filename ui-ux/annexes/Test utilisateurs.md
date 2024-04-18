@@ -1,3 +1,4 @@
+#  Test utilisateurs
 
 ## Contexte
 
@@ -12,6 +13,7 @@ Le but des tests utilisateurs serait de vérifier si les tâches définies sont 
 Nous avons effectué un test d’utilisabilité. Ce type de tests consistent à donner un certain nombre de tâches à un testeur. Le testeur doit effectuer les tâches tout en décrivant ses actions et ses pensées(technique de la pensée à voix haute).
 
 Un facilitateur est présent pour guider le testeur tout au long du test. Son rôle est d’encourager le testeur à développer ses réflexions au sujet ses actions, et éventuellement lui apporter de l’aide s’il se retrouve bloqué.
+
 ## Instructions
 
 Bonjour …
@@ -26,7 +28,7 @@ La première chose que je veux directement mettre au clair : nous testons appY, 
 
 Pendant l'utilisation l’application, je vais vous demander le plus possible d'essayer de penser à voix haute: dire ce que vous regardez, ce que vous essayez de faire et ce que vous pensez. Ce sera d’une grande aide pour nous. 
 
-Si vous avez des questions en cours de route, vous pouvez les poser. Je ne pourrais peut-être pas y répondre tout de suite, car nous sommes intéressés de savoir comment vous feriez si personne n’était à côté de vous pour vous aider. Mais si vous avez toujours des questions lorsque nous aurons terminé, j’essaierais alors d’y répondre. Et si vous avez besoin de faire une pause à tout moment, dites-le-moi.
+Si vous avez des questions en cours de route, posez-les. Je ne pourrais peut-être pas y répondre tout de suite, car nous sommes intéressés de savoir comment vous feriez si personne n’était à côté de vous pour vous aider. Mais si vous avez toujours des questions lorsque nous aurons terminé, j’essaierais alors d’y répondre. Et si vous avez besoin de faire une pause à tout moment, dites-le-moi.
 
 Si besoin d’enregistrer demander le consentement de la personne et lui faire signer un papier
 
@@ -50,8 +52,6 @@ Vous êtes sur l'application explorer la et indiquez son utilité.
 
 Hypothèse : l’utilisateur va explorer l’application et comprendre l’utilité et faire des retours
 
-Temps : 1 min
-
 #### Critères de réussite :
 
 ·        Identifier clairement l'objectif principal de l'application.
@@ -74,8 +74,6 @@ Facilitateur : Aider à comprendre qu’il doit réaliser la balade. Il va arri
 
 Hypothèse : l’utilisateur pourrait ne pas comprendre comment débuter la balade ainsi que sur Google maps sur le fait que l’utilisateur est trop loin pour commencer.
 
-Temps : 5 min
-
 #### Critères de réussite :
 
 ·        Sélectionner le parcours Pierre de Joie dans l'application de cartographie.
@@ -96,8 +94,6 @@ Facilitateur : Aider l’utilisateur si besoin sans lui donner les réponses, l
 
 Hypothèse : l’utilisateur va trouver ou sont enregistré les bons, mais pourrait ne pas savoir comment l’utiliser
 
-Temps : 2 min 
-
 #### Critères de réussite :
 
 ·        Trouver ou sont enregistrées les bons dans l’application
@@ -117,8 +113,6 @@ Vous êtes chez vous et votre enfant vous parle de la balade que vous avez faite
 Facilitateur : Aider l’utilisateur si besoin sans lui donner les réponses, l’aiguiller, lui demander pourquoi il ne comprend pas
 
 Hypothèse : l’utilisateur va chercher dans le parcours  l’histoire de la pierre de joie ou l’utilisateur va trouver l’onglet histoire.
-
-Temps : 2-3 min
 
 #### Critères de réussite :
 
