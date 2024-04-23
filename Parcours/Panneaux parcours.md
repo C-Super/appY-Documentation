@@ -11,6 +11,8 @@ Deux types de panneaux jalonnent le parcours : le premier type présente uniquem
 
 ### 2 -ème type 
 
+![[panneau avec indice final demo.png]]
+
 
 
 ### Petit panneau 
